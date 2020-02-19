@@ -20,7 +20,7 @@ import functions as fn
 
 EMAIL_SERVER = "smtp.gmail.com"
 EMAIL_PORT = 587
-EMAIL_FROM = "odacntu@gmail.com"
+EMAIL_FROM = "yoursendingaddress@gmail.com"
 FROM_PASSWORD = input("Enter your email password: ")
 subject = "NTU ODAC Partnership Proposal 19/20"
 
@@ -39,7 +39,7 @@ mailing_list_path = "dependencies/mailing_list.txt"
 mailing_list_dict = fn.read_mailing_list(mailing_list_path)
 
 # Encode attachments
-attachments = ["dependencies/ntu_odac_partnership_proposal_1920.pdf"]
+attachments = ["test.pdf"]
 for attachment in attachments:
   part = fn.encode_atachment(attachment)
 
@@ -61,7 +61,7 @@ for COMPANY_NAME in mailing_list_dict.keys():
   # Send email
   time_start = dt.now().strftime("%Y-%m-%d %H:%M:%S")
   print(f"{time_start}: Sending to {EMAIL_TO} ...")
-  failures = smtpObj.sendmail(EMAIL_FROM, [EMAIL_TO, "wirriamm@gmail.com"], msg.as_string())
+  failures = smtpObj.sendmail(EMAIL_FROM, [EMAIL_TO, "bcctoyourself@gmail.com"], msg.as_string())
 
   status = "Not sent"
   if failures == {}:
