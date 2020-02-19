@@ -1,7 +1,7 @@
 SN	COMPANY_NAME	EMAIL_TO	COMPLIMENT	REQUESTS	BENEFITS
-1	Sun Qi Angel-Cheryl	asun004@e.ntu.edu.sg	you are a great president	Get out of jail/odac free card |Sponsorship to a mountain	Entertainment from Junlong
-2	Lim Shao Lun Lucas Lennon	LIMS0264@e.ntu.edu.sg	you are a great vice-president	Be our Grab driver	Lennon poster all around NTU |Your name printed on our custom underwear
-3	Chew Xin Yi	chew0375@e.ntu.edu.sg	you are a great secretary	Don't give me booth duty |Make me breakfast	Friendship membership for a month |Maybe a year
-4	Phoa Jun Long	A180027@e.ntu.edu.sg	you are a (ahem) not bad treasurer	Give me more money! |Just more money	Give you your free title as treasurer |Joy in ODAC |Friendship points
-5	Lyndon Leow Zhan Wei	lynd0002@e.ntu.edu.sg	you are a great business manager	1 BMW |2 Lorries |Cash sponsorship	Publicity for Lyndon Pte Ltd |Allow for setting up of booth for your company (subject to fees)
-6	William Goh	wirriamm@gmail.com	you are a great business manager	Technical expertise | Time	Nothing
+1	Aaa	aaa@e.ntu.edu.sg	you are a great president	Get out of jail/odac free card |Sponsorship to a mountain	Entertainment from Junlong
+2	Bbb	bbb@e.ntu.edu.sg	you are a great vice-president	Be our Grab driver	Lennon poster all around NTU |Your name printed on our custom underwear
+3	Ccc	ccc@e.ntu.edu.sg	you are a great secretary	Don't give me booth duty |Make me breakfast	Friendship membership for a month |Maybe a year
+4	Ddd	ddd@e.ntu.edu.sg	you are a (ahem) not bad treasurer	Give me more money! |Just more money	Give you your free title as treasurer |Joy in ODAC |Friendship points
+5	Eee	eee@e.ntu.edu.sg	you are a great business manager	1 BMW |2 Lorries |Cash sponsorship	Publicity for Lyndon Pte Ltd |Allow for setting up of booth for your company (subject to fees)
+6	Fff	fff@gmail.com	you are a great business manager	Technical expertise | Time	Nothing
