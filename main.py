@@ -1,6 +1,6 @@
 '''
 NTU ODAC 2019/2020
-Bizmag - William
+Bizmag - by William
 Sends customised email to a mailing list
 '''
 
@@ -23,9 +23,6 @@ EMAIL_PORT = 587
 EMAIL_FROM = "odacntu@gmail.com"
 FROM_PASSWORD = input("Enter your email password: ")
 subject = "NTU ODAC Partnership Proposal 19/20"
-
-# RECIPIENT_NAMES = ["William", "Lyndon"]
-# RECIPIENT_LIST = ["lynd0002@e.ntu.edu.sg"] #, "lynd0002@e.ntu.edu.sg"
 
 ############################################################
 # Main loop
